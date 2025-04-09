@@ -4,3 +4,5 @@ Welcome to my project! Here's a quick preview:
 
 ![Screenshot](Images/First Page.png)
 
+## Getting Started
+Clone the repository and enjoy!
