@@ -2,4 +2,5 @@
 
 Welcome to my project! Here's a quick preview:
 
-![App Screenshot](Images/First Page.png)
+![Screenshot](Images/First Page.png)
+
