@@ -19,3 +19,4 @@ In the map-based visualization of country-wise life expectancy, Japan ranks high
 Globel Analysis on Life Expectancy and Population ![image](https://github.com/user-attachments/assets/3538e10a-7755-406e-b4ce-0bdc323e9e22)
 ![Image](https://github.com/user-attachments/assets/e400be80-aaa3-47cb-b41a-af8dcb4af001)
 ![Image](https://github.com/user-attachments/assets/a55dcfee-f4c9-449f-a197-908509769feb)
+![Image](https://github.com/user-attachments/assets/1bbef490-928f-4bbf-8b88-a37e64377d46)
