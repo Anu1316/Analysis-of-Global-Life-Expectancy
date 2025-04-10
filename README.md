@@ -1,4 +1,3 @@
-# My Awesome Project
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/01c4bd5b-5953-4aa7-ba18-0cd8211a8480" />
 
 This comprehensive analysis explores critical global trends in population dynamics and life expectancy. It is structured around three key agendas to provide a clear and insightful understanding of demographic and health patterns across the world.
@@ -9,7 +8,9 @@ Continent wise population growth
 
 ![Image](https://github.com/user-attachments/assets/641b4308-5c31-455b-811e-4b1413df646a)
 
-Country wise life expectancy[image](https://github.com/user-attachments/assets/472791b0-aece-4484-a070-7dd6915dafa6)
+Country wise life expectancy
+
 In the map-based visualization of country-wise life expectancy, Japan ranks highest, holding the 1st position, while Nigeria and Chad rank among the lowest at 156th and 157th respectively.
+
 ![image](https://github.com/user-attachments/assets/e4641a89-c239-48f6-83a3-8211d187d178)
 
