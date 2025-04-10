@@ -8,4 +8,4 @@ This comprehensive analysis explores critical global trends in population dynami
 Continent wise population growth
 
 ![image](https://github.com/user-attachments/assets/e3e613d5-531f-4759-8836-e72517b51e18)
-
+![Image](https://github.com/user-attachments/assets/641b4308-5c31-455b-811e-4b1413df646a)
