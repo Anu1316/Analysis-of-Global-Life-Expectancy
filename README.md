@@ -13,3 +13,5 @@ Country wise life expectancy
 In the map-based visualization of country-wise life expectancy, Japan ranks highest, holding the 1st position, while Nigeria and Chad rank among the lowest at 156th and 157th respectively.
 
 
+
+
