@@ -14,4 +14,4 @@ In the map-based visualization of country-wise life expectancy, Japan ranks high
 
 ![Image](https://github.com/user-attachments/assets/4df272b9-4f61-4976-9b50-83ae22d2a163)
 
-
+![Image](https://github.com/user-attachments/assets/d6b8cf35-115d-4fc6-ba0f-13621cd2df3d)
